@@ -1,4 +1,4 @@
-# Fundamentus comscrapy
+# Fundamentus com framework scrapy
 
 Crawler do site Fundamentus.com com o uso do framework scrapy, tanto da aba detalhada como a de resumo.
 
